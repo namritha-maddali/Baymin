@@ -1,2 +1,2 @@
 # Baymin
-Baymin - your personal first aid assisstant 
+Baymin - your personal AI first aid assisstant 
